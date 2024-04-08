@@ -1,6 +1,9 @@
 #ifndef BINARY_TREES_H
 #define BINARY_TREES_H
 
+/*header files*/
+#include <stddef.h>
+
 /*Basic structure Binary Tree*/
 /**
  * struct binary_tree_s - Binary tree node
